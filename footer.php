@@ -16,7 +16,7 @@
 	<li><a href="api/">Documentation</a></li>
 	<li><a href="http://craftycomponents.com/">Modules</a></li>
 	<li><a href="https://groups.google.com/forum/#!forum/craftyjs">Forum</a></li>
-	<li><a href="tutorials.php">Tutorial</a></li>
+	<li><a href="http://craftyjs.github.com/tutorial/">Tutorial</a></li>
 	<li><a href="demos.php">Demos</a></li>
 	<li><a href="http://craftyjs.tumblr.com/">Blog</a></li>
 	<li><a href="download.php">Download</a></li>
